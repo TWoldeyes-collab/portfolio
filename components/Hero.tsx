@@ -34,7 +34,7 @@ export default function Hero() {
           </a>
         </div>
         <div className="flex justify-center space-x-6">
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+          <a href="https://github.com/TWoldeyes-collab" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
             <FaGithub size={32} />
           </a>
           <a href="https://www.linkedin.com/in/teshome-woldeyes-81647414b/" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
