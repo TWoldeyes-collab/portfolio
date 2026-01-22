@@ -73,7 +73,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-gray-600 dark:text-gray-400 text-sm">GitHub</p>
-                  <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-900 dark:text-white hover:text-blue-600">
+                  <a href="https://github.com/TWoldeyes-collab" target="_blank" rel="noopener noreferrer" className="text-gray-900 dark:text-white hover:text-blue-600">
                     https://github.com/TWoldeyes-collab
                   </a>
                 </div>
